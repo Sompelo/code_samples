@@ -1,5 +1,5 @@
 # code_samples
-Here are some samples of projects I have been working on during the past year at school. 
+Here are some samples of projects I have been working on during the past year at Oulu University of Applied Sciences (Oamk). 
 
 "matopeli_v1_11" is a snake-game written for a group project during the second period of my first year at Oamk. It was written for arduino using an 8x8 led matrix-display, 
 and some push-buttons on a breadboard. In the .ino file are only the parts that I wrote for the program (interfacing with the MAX7219 LED DRIVER, 
