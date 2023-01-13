@@ -16,7 +16,7 @@ Coder's sociability app is a mobile application written in React Native. It atte
 https://github.com/Sompelo/javan_lopputyo_samuli_salmi_tvt21kmo
 This project is a web application for accessing a student data database. The backend is a Java SpringBoot-server and the frontend is written in vanilla JavaScript. With this app you can add courses and students into the database, search for them as well as modify and delete them. 
 
-===================================================================================================================================================================================
+========================================================================================================================================================================================
 
 Group Projects I've been a part of: 
 
