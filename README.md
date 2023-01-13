@@ -22,8 +22,12 @@ Group Projects I've been a part of:
 
 "Leipäjono-Application"
 https://github.com/Ryhma-9/Web-ohjelmoinnin_sovellusprojekti
-A Foodora/Wolt style application for ordering food from a restaurant using a web application. Created for a web appliction course as a group of 4. Frontend is written in JacaScript using React framework and the backend is written in Java. I worked building the backend datastructures and database connections as well as some frontend routing and web page components (shopping cart and payment screens for example). 
+A Foodora/Wolt style application for ordering food from a restaurant using a web application. Created for a web appliction course as a group of 4. Frontend is written in JacaScript using React framework and the backend is written in Java. I worked building the backend datastructures and database (PostgreSQL) connections as well as some frontend routing and web page components (shopping cart and payment screens for example). 
 
 "GeoSnapper Social Media Application"
 https://github.com/Mobiilisovellusprojekti-TVT21KMO-R10/GeoSnapper_Project
 A Social media app build for a mobile application course. Made for a Mobile application course in a group of 3. An application written in Kotlin for a geography-based social media application. The app allows users to leave anonymous messages in the application attached to a physical geological location (Think of it as a Dark Souls-style messaging system in real world). These messages can then be viewed by other users near to the geological coordinates of the message. Messages can also be up- or down-voted freely by other users, affecting their visibility and duration. For a small fee, a message can be cheered up for additional visibility for a certain amount of time. My responsibilities were building the database (Firestore) and its connections, some frontend components such as the profile view and with debugging. 
+
+"Dogebank Bank Automat Application"
+https://github.com/tvt21kmo-bank-project/group_8
+A bank automat application written in C++ using Qt Framework with a JavaScript Express server working as a backend using a mySQL-database. I worked as a part of a group of 4. I worked on the database, frontend and backend as well as wrote a utility program for CRUD-operations for the bank to use (more information on line 8 of this document).  
