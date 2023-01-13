@@ -7,3 +7,7 @@ coding the input buttons, game logic etc.) with plenty of comments (in finnish) 
 
 "bankautomat_crud" is a utility program I wrote for a group project during the last period of my first year at Oamk. The program is a GUI-application for managing the database 
 used to save data for bank users, accounts, credit and debit cards etc. The program was written in Qt C++ using Qt Creator 4.3.1 Community edition.
+
+"Coder's sociability app"
+https://github.com/Sompelo/koodarin_sosiaalisuusappi
+Coder's sociability app is a mobile application written in React Native. It attempts to gamify basic physical and social activities that a lone, reclusive coder might find challenging. It uses Google's Firebase database for user authentication and Firestore database for additional user data. The databases are currently inactive.
