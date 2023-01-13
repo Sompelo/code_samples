@@ -11,3 +11,7 @@ used to save data for bank users, accounts, credit and debit cards etc. The prog
 "Coder's sociability app"
 https://github.com/Sompelo/koodarin_sosiaalisuusappi
 Coder's sociability app is a mobile application written in React Native. It attempts to gamify basic physical and social activities that a lone, reclusive coder might find challenging. It uses Google's Firebase database for user authentication and Firestore database for additional user data. The databases are currently inactive.
+
+"Student database web application"
+https://github.com/Sompelo/javan_lopputyo_samuli_salmi_tvt21kmo
+This project is a web application for accessing a student data database. The backend is a Java SpringBoot-server and the frontend is written in vanilla JavaScript. With this app you can add courses and students into the database, search for them as well as modify and delete them. 
