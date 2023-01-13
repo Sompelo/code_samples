@@ -15,3 +15,15 @@ Coder's sociability app is a mobile application written in React Native. It atte
 "Student database web application"
 https://github.com/Sompelo/javan_lopputyo_samuli_salmi_tvt21kmo
 This project is a web application for accessing a student data database. The backend is a Java SpringBoot-server and the frontend is written in vanilla JavaScript. With this app you can add courses and students into the database, search for them as well as modify and delete them. 
+
+=======================================================================================================================================================================
+
+Group Projects I've been a part of: 
+
+"Leipäjono-Application"
+https://github.com/Ryhma-9/Web-ohjelmoinnin_sovellusprojekti
+A Foodora/Wolt style application for ordering food from a restaurant using a web application. Created for a web appliction course as a group of 4. Frontend is written in JacaScript using React framework and the backend is written in Java. I worked building the backend datastructures and database connections as well as some frontend routing and web page components (shopping cart and payment screens for example). 
+
+"GeoSnapper Social Media Application"
+https://github.com/Mobiilisovellusprojekti-TVT21KMO-R10/GeoSnapper_Project
+A Social media app build for a mobile application course. Made for a Mobile application course in a group of 3. An application written in Kotlin for a geography-based social media application. The app allows users to leave anonymous messages in the application attached to a physical geological location (Think of it as a Dark Souls-style messaging system in real world). These messages can then be viewed by other users near to the geological coordinates of the message. Messages can also be up- or down-voted freely by other users, affecting their visibility and duration. For a small fee, a message can be cheered up for additional visibility for a certain amount of time. My responsibilities were building the database (Firestore) and its connections, some frontend components such as the profile view and with debugging. 
