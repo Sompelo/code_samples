@@ -1,4 +1,12 @@
-# code_samples
+# Code Samples
+
+My latest few projects are proprietary code and cannot be shared unfortunately :'(
+
+Websites I've made and admin: </br>
+  <a href='https://maanrakennustimonen.fi/'>https://maanrakennustimonen.fi/</a></br>
+  <a href='https://rklprobuilders.fi/'>https://rklprobuilders.fi/</a></br>
+  
+
 Here are some samples of projects I have been working on during the past few years at Oulu University of Applied Sciences (Oamk). 
 
 "matopeli_v1_11" is a snake-game written for a group project during the second period of my first year at Oamk. It was written for arduino using an 8x8 led matrix-display, 
